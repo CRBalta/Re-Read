@@ -1,0 +1,15 @@
+.barra-verde {
+    background-color: #004d40; /* verde oscuro como en la imagen */
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: monospace;
+  }
+
+  .top-venta {
+    background-color: #137d73;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: monospace;
+  }
