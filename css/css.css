@@ -1,15 +1,33 @@
 .barra-verde {
-    background-color: #004d40; /* verde oscuro como en la imagen */
-    color: white;
-    padding: 10px 20px;
-    font-weight: bold;
-    font-family: monospace;
-  }
+  background-color: #004d40; /* verde oscuro como en la imagen */
+  color: white;
+  padding: 10px 20px;
+  font-weight: bold;
+  font-family: monospace;
+}
 
-  .top-venta {
-    background-color: #137d73;
-    color: white;
-    padding: 10px;
-    margin-bottom: 10px;
-    font-family: monospace;
-  }
+.top-venta {
+  background-color: #137d73;
+  color: white;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-family: monospace;
+}
+
+
+
+.nav-tabs {
+  border-bottom: 2px solid #e67e22;
+}
+
+.nav-tabs .nav-link {
+  color: black;
+  font-family: monospace;
+}
+
+.nav-tabs .nav-link.active {
+  background-color: #e67e22;
+  color: white;
+  border-color: #e67e22 #e67e22 #fff;
+  font-weight: bold;
+}
